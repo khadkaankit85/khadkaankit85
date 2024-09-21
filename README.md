@@ -37,11 +37,10 @@ I'm a **Software Developer** with a passion for building web and mobile applicat
 - **Diploma in Computer Programming**, Sault College of Applied Science and Technology  
   Toronto, Ontario | GPA: 3.6/4.0 | Expected Graduation: April 2025
 
-## 📈 GitHub Stats
-
-![Angkit's GitHub stats](https://github-readme-stats.vercel.app/api?username=khadkaankit85&show_icons=true&theme=radical)
-
 ## 📫 How to reach me
 
 - **Email**: [khadkaankit85@gmail.com](mailto:khadkaankit85@gmail.com)
 - **LinkedIn**: [Angkit Khadka](https://www.linkedin.com/in/angkitkhadka85/)
+
+
+  
