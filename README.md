@@ -10,19 +10,25 @@
         </a>
 
 <p align="center">
-     <a href="https://angkit.tech/#projects" target="_blank">
+    <a href="https://angkit.tech/#projects" target="_blank">
         <img src="https://img.shields.io/badge/-View%20Projects-purple?style=for-the-badge&logo=link&logoColor=white" alt="View Projects">
-        </a>
+    </a>
+    <a href="https://github.com/khadkaankit85/Assets/raw/refs/heads/master/Resume/Angkit.docx" target="_blank">
+        <img src="https://img.shields.io/badge/-Download%20Resume-orange?style=for-the-badge&logo=link&logoColor=white" alt="Download Resume">
+    </a>
     </p>
 
- <p align="center">
-    <a href="https://www.linkedin.com/in/khadkaankit85/" target="_blank">
+<p align="center">
+    <a href="https://www.linkedin.com/in" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://angkit.tech" target="_blank">
         <img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
-    <a href="" target="_blank">
+    <a href="mailto:khadkaankit011@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    </a>
+
 </p>
 
 <p align="center">
