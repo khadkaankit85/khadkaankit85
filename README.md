@@ -13,7 +13,7 @@
     <a href="https://angkit.tech/#projects" target="_blank">
         <img src="https://img.shields.io/badge/-View%20Projects-purple?style=for-the-badge&logo=link&logoColor=white" alt="View Projects">
     </a>
-    <a href="https://github.com/khadkaankit85/Assets/raw/refs/heads/master/Resume/Angkit.docx" target="_blank">
+    <a href="https://raw.githubusercontent.com/khadkaankit85/Assets/refs/heads/master/Resume/Angkit.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Download%20Resume-orange?style=for-the-badge&logo=link&logoColor=white" alt="Download Resume">
     </a>
     </p>
