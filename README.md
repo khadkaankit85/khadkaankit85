@@ -5,11 +5,6 @@
         </a>
     </p>
 <p align="center">
-        <a href="https://github.com/angkit" target="_blank">
-            <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=(Full-Stack+Developer)&repeat=false" alt="Typing SVG">
-        </a>
-
-<p align="center">
     <a href="https://angkit.tech/#projects" target="_blank">
         <img src="https://img.shields.io/badge/-View%20Projects-purple?style=for-the-badge&logo=link&logoColor=white" alt="View Projects">
     </a>
