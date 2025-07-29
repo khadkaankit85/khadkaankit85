@@ -11,6 +11,9 @@
     <a href="https://raw.githubusercontent.com/khadkaankit85/Assets/refs/heads/master/Resume/Angkit.pdf" target="_blank">
         <img src="https://img.shields.io/badge/-Download%20Resume-orange?style=for-the-badge&logo=link&logoColor=white" alt="Download Resume">
     </a>
+    <a href="https://angkit.com.np/resume" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Resume-orange?style=for-the-badge&logo=link&logoColor=white" alt="View Resume">
+    </a>
     </p>
 
 <p align="center">
