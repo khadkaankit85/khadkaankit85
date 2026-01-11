@@ -5,7 +5,7 @@
         </a>
     </p>
 <p align="center">
-    <a href="https://angkit.tech/#projects" target="_blank">
+    <a href="https://angkit.com.np/#projects" target="_blank">
         <img src="https://img.shields.io/badge/-View%20Projects-purple?style=for-the-badge&logo=link&logoColor=white" alt="View Projects">
     </a>
     <a href="https://raw.githubusercontent.com/khadkaankit85/Assets/refs/heads/master/Resume/Angkit.pdf" target="_blank">
@@ -20,7 +20,7 @@
     <a href="https://www.linkedin.com/in" target="_blank">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://angkit.tech" target="_blank">
+    <a href="https://angkit.com.np" target="_blank">
         <img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio">
     </a>
     <a href="mailto:khadkaankit011@gmail.com" target="_blank">
